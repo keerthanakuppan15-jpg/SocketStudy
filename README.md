@@ -55,6 +55,8 @@ Socket programming finds applications in various domains, including web developm
 
 ```
     CLIENT.py
+#Developed by : Keerthana K
+#Reg no : 212225230137
 
 import socket
 s = socket.socket()
@@ -65,6 +67,8 @@ s.send("Acknowledgement received from the server".encode())
 s.close()
 
 SERVER.py
+#Developed by : Keerthana K
+#Reg no : 212225230137
 
 import socket
 from datetime import datetime
